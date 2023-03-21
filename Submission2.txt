@@ -1,1 +1,17 @@
+Link to unlisted YouTube video:
+https://youtu.be/gZcxH2o3NHw
 
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1mjsUjlpF2ezSdh3kCiEK1hIOvHGK6G3pcrJTCYTW0SA/edit?usp=sharing
+
+Paper title:
+Support-Vector Networks in machine learning
+
+Link to the paper:
+http://rd.springer.com/content/pdf/10.1007%2FBF00994018.pdf
+
+Group Number:
+26
+
+Individual Submitter:
+20101025 Nabil Shartaj Khan
